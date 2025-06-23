@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+supabase
+asyncpg
+python-jose[cryptography]
+passlib[bcrypt]
+pydantic
+python-multipart
+websockets
+langchain
+langgraph
+httpx
+python-dotenv 
